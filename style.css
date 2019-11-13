@@ -1,0 +1,45 @@
+.main {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 100px;
+    align-content: center;
+}
+.content{
+    margin-left: 14%;
+}
+.center{
+margin-left: 20%;
+}
+.inday{
+    
+    font-weight: bold;
+    margin-left: 2%;
+    margin-bottom: 2%;
+}
+.anim:hover{
+    border: 4px solid black;
+}
+.near{
+    font-weight: bold;
+    margin-left: 3%;
+}
+h2{
+    color: aqua;
+}
+
+.tryleft{
+    margin-left: 34%;
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.hell{
+    margin-bottom: 90%;
+}
+input{
+    width: 20%;
+}
+#load{
+    align-content: center;
+}
